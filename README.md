@@ -1,5 +1,4 @@
-# ELEVATELABS_TASK7
-## Identify and Remove Suspicious Browser Extensions. 
+# Identify and Remove Suspicious Browser Extensions. 
 Deliverables: Documented PDF file listing the extensions found and removed if any suspicious. 
 
 ---
